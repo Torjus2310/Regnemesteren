@@ -1,0 +1,55 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    background-color: rgb(39, 39, 39);
+}
+
+h1 {
+    position: relative;
+    font-variant-caps: all-small-caps;
+    font-size: 3rem;
+    color: honeydew;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:41%;
+    margin-top:20%;
+}
+
+
+
+#btnTilScrimba {
+
+padding:2rem;
+padding-left:5rem;
+padding-right:5rem;
+margin-top:2rem;
+margin-left:37.5%;
+border-radius:5px;
+border:rgb(2, 204, 2) solid 5px;
+box-shadow: 8px 8px 8px rgb(34, 34, 34);
+background-color: rgb(39, 39, 39);
+transition:0.2s;
+
+}
+#btnTilScrimba:hover {
+
+padding:2rem;
+padding-left:5rem;
+padding-right:5rem;
+margin-top:2rem;
+margin-left:38%;
+border-radius:5px;
+border:rgb(2, 204, 2) solid;
+box-shadow: 10px 10px 10px rgb(17, 17, 17);
+background-color: rgb(2, 204, 2) ;
+
+}
+
+a {
+    text-decoration: none;
+    font-variant-caps: all-small-caps;
+    font-size:2rem;
+    color: honeydew;
+}
